@@ -1,0 +1,157 @@
+Make,Variant,Length,Geo,Origin,Price,Year
+Hunter,38,38,USA,Florida,134191,2005
+Hunter,38,39,USA,Maryland,73359,2004
+Hunter,38,27,USA,New York,110901,2004
+Hunter,41 DS,37,USA,California,122011,2004
+Hunter,41 DS,39,Europe,France,122246,2003
+Hunter,41 Deck Salon,45,Europe,France,101690,2005
+Hunter,41 Aft Cockpit,35,USA,Maryland,111408,2003
+Hunter,41 DS,36,USA,Michigan,106883,2005
+Hunter,44 DS,41,USA,California,164215,2001
+Hunter,44,40,USA,Maine,173541,2005
+Hunter,44,37,USA,New York,155053,2000
+Hunter,44 DS,43,USA,Virginia,140260,2005
+Hunter,Passage 456,42,USA,North Carolina,141216,1999
+Hunter,466,49,Europe,Spain,210507,2001
+Hunter,380,32,USA,Florida,88623,2005
+Hunter,38,36,USA,Connecticut,108832,2002
+Hunter,38,39,Europe,Cork,109803,2003
+Hunter,38,35,USA,New Jersey,94291,2003
+Hunter,38,34,USA,New York,120320,2006
+Hunter,38,36,USA,New York,104721,2005
+Hunter,38,33,USA,New York,100786,2005
+Hunter,38,34,USA,North Carolina,128496,2003
+Hunter,38,39,USA,Texas,108830,2003
+Hunter,38,33,USA,Wisconsin,117399,2005
+Hunter,41,36,USA,California,133410,2006
+Hunter,41 DS,41,Europe,Greece,100125,2000
+Hunter,41 Deck Salon,41,Europe,Greece,89782,2003
+Hunter,41 DS,30,USA,New York,185181,2007
+Hunter,41 DS,37,USA,North Carolina,142976,2004
+Hunter,41 DS,38,USA,Ohio,139977,2006
+Hunter,41 DS,37,USA,Washington,186294,2005
+Hunter,44,39,USA,Florida,174817,2005
+Hunter,44 Deck Salon,36,Caribbean,Mexico,165386,2005
+Hunter,44 DS,45,USA,Rhode Island,192522,2004
+Hunter,45 Center Cockpit,41,USA,California,212675,2004
+Hunter,45 Center Cockpit,43,USA,Maryland,166188,2003
+Hunter,45cc,49,USA,Wisconsin,199764,2002
+Hunter,38,36,USA,California,118395,2007
+Hunter,38,37,Caribbean,Mexico,88172,2008
+Hunter,38,35,USA,Michigan,100003,2007
+Hunter,45 Center Cockpit,43,USA,Maryland,174275,2006
+Hunter,45 Center Cockpit,44,USA,Massachusetts,162055,2007
+Hunter,49,48,USA,California,262503,2003
+Hunter,49,49,USA,Florida,214272,2007
+Hunter,49,48,USA,Maryland,258550,2006
+Hunter,38,38,USA,Massachusetts,109172,2008
+Hunter,38,39,USA,New York,92101,2007
+Hunter,38,35,USA,Rhode Island,124556,2006
+Hunter,38,39,USA,Texas,100679,2007
+Hunter,38,40,USA,Virginia,94661,2006
+Hunter,41 DS,42,USA,California,127813,2004
+Hunter,41 DS,37,USA,Florida,152341,2008
+Hunter,41 DS,39,USA,New York,108215,2006
+Hunter,41 DS,35,USA,Virginia,135114,2008
+Hunter,45 Center Cockpit,45,USA,California,195627,2006
+Hunter,45 DS,37,USA,Michigan,173420,2009
+Hunter,45cc,41,USA,Ohio,241188,2007
+Hunter,49,47,USA,Michigan,237815,2007
+Hunter,38,34,USA,California,133189,2008
+Hunter,38,39,USA,New York,109986,2009
+Hunter,38,37,USA,Ohio,101837,2008
+Hunter,41 DS,38,USA,California,127940,2011
+Hunter,41 DS,39,USA,Florida,155039,2009
+Hunter,49,51,USA,California,253794,2009
+Hunter,50,45,USA,Florida,210775,2009
+Hunter,49,45,Europe,Spain,265940,2006
+Hunter,39,34,USA,Texas,128859,2010
+Hunter,OV,40,Caribbean,Sint Maarten (Dutch part),198911,2009
+Hunter,AC 50,44,USA,Florida,251089,2009
+Hunter,50 Center Cockpit,47,USA,Florida,232179,2004
+Hunter,39,35,USA,California,146564,2009
+Hunter,50 Center Cockpit,53,USA,Maryland,315477,2007
+Hunter,50,48,USA,North Carolina,274076,2009
+Hunter,45 DS,40,USA,Florida,168266,2012
+Hunter,40,45,USA,Massachusetts,210282,2011
+Hunter,40,38,USA,Ohio,204058,2011
+Hunter,M-H 40,42,USA,Virginia,204463,2012
+Hunter,50 Center Cockpit,44,USA,Virginia,327996,2012
+Hunter,38,38,USA,Florida,134191,2005
+Hunter,38,39,USA,Maryland,73359,2004
+Hunter,38,27,USA,New York,110901,2004
+Hunter,41 DS,37,USA,California,122011,2004
+Hunter,41 DS,39,Europe,France,122246,2003
+Hunter,41 Deck Salon,45,Europe,France,101690,2005
+Hunter,41 Aft Cockpit,35,USA,Maryland,111408,2003
+Hunter,41 DS,36,USA,Michigan,106883,2005
+Hunter,44 DS,41,USA,California,164215,2001
+Hunter,44,40,USA,Maine,173541,2005
+Hunter,44,37,USA,New York,155053,2000
+Hunter,44 DS,43,USA,Virginia,140260,2005
+Hunter,Passage 456,42,USA,North Carolina,141216,1999
+Hunter,466,49,Europe,Spain,210507,2001
+Hunter,380,32,USA,Florida,88623,2005
+Hunter,38,36,USA,Connecticut,108832,2002
+Hunter,38,39,Europe,Cork,109803,2003
+Hunter,38,35,USA,New Jersey,94291,2003
+Hunter,38,34,USA,New York,120320,2006
+Hunter,38,36,USA,New York,104721,2005
+Hunter,38,33,USA,New York,100786,2005
+Hunter,38,34,USA,North Carolina,128496,2003
+Hunter,38,39,USA,Texas,108830,2003
+Hunter,38,33,USA,Wisconsin,117399,2005
+Hunter,41,36,USA,California,133410,2006
+Hunter,41 DS,41,Europe,Greece,100125,2000
+Hunter,41 Deck Salon,41,Europe,Greece,89782,2003
+Hunter,41 DS,30,USA,New York,185181,2007
+Hunter,41 DS,37,USA,North Carolina,142976,2004
+Hunter,41 DS,38,USA,Ohio,139977,2006
+Hunter,41 DS,37,USA,Washington,186294,2005
+Hunter,44,39,USA,Florida,174817,2005
+Hunter,44 Deck Salon,36,Caribbean,Mexico,165386,2005
+Hunter,44 DS,45,USA,Rhode Island,192522,2004
+Hunter,45 Center Cockpit,41,USA,California,212675,2004
+Hunter,45 Center Cockpit,43,USA,Maryland,166188,2003
+Hunter,45cc,49,USA,Wisconsin,199764,2002
+Hunter,38,36,USA,California,118395,2007
+Hunter,38,37,Caribbean,Mexico,88172,2008
+Hunter,38,35,USA,Michigan,100003,2007
+Hunter,45 Center Cockpit,43,USA,Maryland,174275,2006
+Hunter,45 Center Cockpit,44,USA,Massachusetts,162055,2007
+Hunter,49,48,USA,California,262503,2003
+Hunter,49,49,USA,Florida,214272,2007
+Hunter,49,48,USA,Maryland,258550,2006
+Hunter,38,38,USA,Massachusetts,109172,2008
+Hunter,38,39,USA,New York,92101,2007
+Hunter,38,35,USA,Rhode Island,124556,2006
+Hunter,38,39,USA,Texas,100679,2007
+Hunter,38,40,USA,Virginia,94661,2006
+Hunter,41 DS,42,USA,California,127813,2004
+Hunter,41 DS,37,USA,Florida,152341,2008
+Hunter,41 DS,39,USA,New York,108215,2006
+Hunter,41 DS,35,USA,Virginia,135114,2008
+Hunter,45 Center Cockpit,45,USA,California,195627,2006
+Hunter,45 DS,37,USA,Michigan,173420,2009
+Hunter,45cc,41,USA,Ohio,241188,2007
+Hunter,49,47,USA,Michigan,237815,2007
+Hunter,38,34,USA,California,133189,2008
+Hunter,38,39,USA,New York,109986,2009
+Hunter,38,37,USA,Ohio,101837,2008
+Hunter,41 DS,38,USA,California,127940,2011
+Hunter,41 DS,39,USA,Florida,155039,2009
+Hunter,49,51,USA,California,253794,2009
+Hunter,50,45,USA,Florida,210775,2009
+Hunter,49,45,Europe,Spain,265940,2006
+Hunter,39,34,USA,Texas,128859,2010
+Hunter,OV,40,Caribbean,Sint Maarten (Dutch part),198911,2009
+Hunter,AC 50,44,USA,Florida,251089,2009
+Hunter,50 Center Cockpit,47,USA,Florida,232179,2004
+Hunter,39,35,USA,California,146564,2009
+Hunter,50 Center Cockpit,53,USA,Maryland,315477,2007
+Hunter,50,48,USA,North Carolina,274076,2009
+Hunter,45 DS,40,USA,Florida,168266,2012
+Hunter,40,45,USA,Massachusetts,210282,2011
+Hunter,40,38,USA,Ohio,204058,2011
+Hunter,M-H 40,42,USA,Virginia,204463,2012
+Hunter,50 Center Cockpit,44,USA,Virginia,327996,2012
